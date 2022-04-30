@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_zNxVYMgwEey5ya0y6L5ZLg">
+  <modelElement href="Remis.uml#_zLtf4MgwEey5ya0y6L5ZLg"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3TbjMMgwEey5ya0y6L5ZLg" source="_3UONYMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsTEcMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3TbjMcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsTEcsgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3TbjMsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3TbjM8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsTEccgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3TbjNMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3TbjNcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3TbjNsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="stage" navigable="true">
+      <modelElement href="Remis.uml#_zrdW8MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aGq8MgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrd-AMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3TbjN8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3TbjOMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3VuCMMgwEey5ya0y6L5ZLg" source="_3XOeEMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsgf0cgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3VupQMgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsgf08gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3VupQcgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3VupQsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsgf0sgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3VupQ8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3VupRMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3VupRcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="data" navigable="true">
+      <modelElement href="Remis.uml#_zr2YgMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aGq8cgwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zr2YgcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aGq8sgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr2_kMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aHSAMgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zr2_kcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3VupRsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3VupR8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3WWUUMgwEey5ya0y6L5ZLg" source="_3XOeEMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsgf1MgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3WWUUcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zshG4MgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3WWUUsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3WWUU8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsgf1cgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3WWUVMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3WWUVcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3WWUVsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="tableview" navigable="true">
+      <modelElement href="Remis.uml#_zr2_lMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aHSAcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr3moMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aHSAsgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zr3mocgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3WWUV8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3WWUWMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3YfCUMgwEey5ya0y6L5ZLg" source="_3Y-xkMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zshG4cgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3YfCUcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsht8MgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3YfCUsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3YfCU8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zshG4sgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3YfCVMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3YfCVcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3YfCVsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="connection" navigable="true">
+      <modelElement href="Remis.uml#_zr3mpMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aHSA8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr4NsMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3YfCV8gwEey5ya0y6L5ZLg" label="#"/>
+      <cardinality xmi:id="_3YfCWMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3Zyp4MgwEey5ya0y6L5ZLg" sourceAnchor="0.0,229.0" targetAnchor="284.0,77.0" target="_3Y-xkMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsZyIcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3acxMMgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsaZMMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3acKIMgwEey5ya0y6L5ZLg" text="">
+      <visualProperties xmi:id="_4ORa0MgwEey5ya0y6L5ZLg" position="-12.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3acKIcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsZyIsgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OQzx8gwEey5ya0y6L5ZLg" position="-19.0,5.0"/>
+      <visibility xmi:id="_3af0gcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3af0gMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3acKIsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="conn" navigable="true">
+      <modelElement href="Remis.uml#_zrl50MgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OSB4MgwEey5ya0y6L5ZLg" position="5.0,-47.0"/>
+      <stereotypes xmi:id="_-aH5EMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrl50sgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3af0g8gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3af0gsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3ahpsMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsTEc8gwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3ahpscgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsTrgMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3ahpssgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3ahps8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsTEdMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3ahptMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3ahptcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3ahptsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="pane1" navigable="true">
+      <modelElement href="Remis.uml#_zrd-AcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aH5EcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrd-AsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aH5EsgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrelEMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3ahpt8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3ahpuMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3avFEMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsTrgcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3avFEcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsUSkMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3avFEsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3avFE8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsTrgsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3avFFMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3avFFcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3avFFsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="pane2" navigable="true">
+      <modelElement href="Remis.uml#_zrelEsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aIgIMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrelE8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aIgIcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrfMIMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3avFF8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3avFGMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3cc8UMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsUSkcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3cc8UcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsU5oMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3cc8UsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3cc8U8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsUSksgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3cc8VMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3cc8VcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3cc8VsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="pane3" navigable="true">
+      <modelElement href="Remis.uml#_zrfMIsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aIgIsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrfMI8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aIgI8gwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrfzMMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3cc8V8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3cc8WMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3cjC8MgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsU5ocgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3cjC8cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsVgsMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3cjC8sgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3cjC88gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsU5osgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3cjC9MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3cjC9cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3cjC9sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtArea" navigable="true">
+      <modelElement href="Remis.uml#_zrfzMsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aIgJMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrfzM8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aIgJcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrgaQMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3cjC98gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3cjC-MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3crl0MgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsVgscgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3crl0cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsVgs8gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3crl0sgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3crl08gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsVgssgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3crl1MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3crl1cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3crl1sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtPrice" navigable="true">
+      <modelElement href="Remis.uml#_zrgaQsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aJHMMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrgaQ8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aJHMcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrhBUMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3crl18gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3crl2MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3csz8MgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsWHwMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3csz8cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsWHwsgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3csz8sgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3csz88gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsWHwcgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3csz9MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3csz9cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3csz9sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtOwner" navigable="true">
+      <modelElement href="Remis.uml#_zrhBUsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aJHMsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrhBU8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aJHM8gwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrhoYMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3csz98gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3csz-MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3cxscMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsWHw8gwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3cxsccgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsWu0MgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3cxscsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3cxsc8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsWHxMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3cxsdMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3cxsdcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3cxsdsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtAddress" navigable="true">
+      <modelElement href="Remis.uml#_zrhoYsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aJuQMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zriPcMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aJuQcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zriPccgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3cxsd8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3cxseMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3cyTgMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsWu0cgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3cyTgcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsXV4MgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3cyTgsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3cyTg8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsWu0sgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3cyThMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3cyThcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3cyThsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUpdateArea" navigable="true">
+      <modelElement href="Remis.uml#_zriPc8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aJuQsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zri2gMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aJuQ8gwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zri2gcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3cyTh8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3cyTiMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3czhoMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsXV4cgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3czhocgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsXV48gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3czhosgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3czho8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsXV4sgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3czhpMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3czhpcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3czhpsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUpdatePrice" navigable="true">
+      <modelElement href="Remis.uml#_zri2g8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aKVUMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrjdkMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aKVUcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrjdkcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3czhp8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3czhqMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3c0vwMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsX88MgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3c0vwcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsX88sgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3c0vwsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3c0vw8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsX88cgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c0vxMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c0vxcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3c0vxsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUpdateOwner" navigable="true">
+      <modelElement href="Remis.uml#_zrjdk8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aKVUsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrjdlMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aKVU8gwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrkEoMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3c0vx8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c0vyMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3c194MgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsX888gwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3c194cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsYkAMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3c194sgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3c1948gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsX89MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c195MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c195cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3c195sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUpdateAddress" navigable="true">
+      <modelElement href="Remis.uml#_zrkEosgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aK8YMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrkEo8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aK8YcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrkrsMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3c1958gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c196MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3c2k8MgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsYkAcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3c2k8cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsZLEMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3c2k8sgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3c2k88gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsYkAsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c2k9MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c2k9cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3c2k9sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUpdateId" navigable="true">
+      <modelElement href="Remis.uml#_zrkrssgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aK8YsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrkrs8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aK8Y8gwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrlSwMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3c2k98gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c2k-MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3c3MAMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsZLEcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3c3MAcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsZyIMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3c3MAsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3c3MA8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsZLEsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c3MBMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c3MBcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3c3MBsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtDeleteId" navigable="true">
+      <modelElement href="Remis.uml#_zrlSwsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aLjcMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrlSw8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aLjccgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrlSxMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3c3MB8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c3MCMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3c3zEMgwEey5ya0y6L5ZLg" source="_3c3zGcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsaZMcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3c3zEcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsaZM8gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3c3zEsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3c3zE8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsaZMsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c3zFMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c3zFcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3c3zFsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="stmt" navigable="true">
+      <modelElement href="Remis.uml#_zrmg4MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aLjcsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrmg4sgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3c3zF8gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3c3zGMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3esYAMgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsbAQsgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3fiFg8gwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsbnUMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3fiFgMgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3fiFgcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsbAQ8gwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3fiskcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3fiskMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3fiFgsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="tblHouses" navigable="true">
+      <modelElement href="Remis.uml#_zrnvAMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aLjc8gwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zrnvAcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMKgMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zroWEMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMKgcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zroWEcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3fjTocgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3fjToMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3fkhwMgwEey5ya0y6L5ZLg" sourceAnchor="0.0,168.0" targetAnchor="231.0,15.0" target="_3qHk4MgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsaZNMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3fkhwcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsbAQcgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3fkhwsgwEey5ya0y6L5ZLg" text="">
+      <visualProperties xmi:id="_4OSo8MgwEey5ya0y6L5ZLg" position="-12.666666666666629,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3fkhw8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsbAQMgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OSB4cgwEey5ya0y6L5ZLg" position="-25.888888888888914,-43.0"/>
+      <visibility xmi:id="_3fkhxMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3fkhxcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3fkhxsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="cm" navigable="true">
+      <modelElement href="Remis.uml#_zrnH8MgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OSo8cgwEey5ya0y6L5ZLg" position="21.5,-43.0"/>
+      <stereotypes xmi:id="_-aMKgsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrnH8cgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3fkhx8gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3fkhyMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3f1AcMgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsbnUcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3f1AccgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zscOYMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3f1AcsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3f1Ac8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsbnUsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f1AdMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f1AdcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3f1AdsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="area" navigable="true">
+      <modelElement href="Remis.uml#_zroWE8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aMKg8gwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zro9IMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMKhMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrpkMMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMKhcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrpkMcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3f1Ad8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f1AeMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3f2OkMgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zscOYcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3f2OkcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsc1cMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3f2OksgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3f2Ok8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zscOYsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f2OlMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f2OlcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3f2OlsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="price" navigable="true">
+      <modelElement href="Remis.uml#_zrpkM8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aMxkMgwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zrqLQMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMxkcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrqLQcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMxksgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrqyUMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3f2Ol8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f21oMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3f3csMgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsc1ccgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3f3cscgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsc1c8gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3f3cssgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3f3cs8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsc1csgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f3ctMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f3ctcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3f3ctsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="owner" navigable="true">
+      <modelElement href="Remis.uml#_zrqyUsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aMxk8gwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zrrZYMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMxlMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrrZYcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aMxlcgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrrZYsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3f3ct8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f3cuMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3f8VMMgwEey5ya0y6L5ZLg" source="_3f8VOcgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsc1dMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3f8VMcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsdcgMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3f8VMsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3f8VM8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsc1dcgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f8VNMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8VNcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3f8VNsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="address" navigable="true">
+      <modelElement href="Remis.uml#_zrrZZMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aNYoMgwEey5ya0y6L5ZLg" name="Generics">
+        <modelElement href="Remis.uml#_zrsngMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aNYocgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrtOkMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aNYosgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrt1oMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3f8VN8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VOMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3hChYMgwEey5ya0y6L5ZLg" source="_3iVh6cgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsdcgcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3h-8k8gwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zseDkMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3h-8kMgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3h-8kcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsdcgsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3h_jocgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3h_joMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3h-8ksgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtUsername" navigable="true">
+      <modelElement href="Remis.uml#_zrucsMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aNYo8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrvDwMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aNYpMgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrvDwcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3h_jo8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3h_josgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3iAxwMgwEey5ya0y6L5ZLg" source="_3iVh6cgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zseDkcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3iAxwcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zseqoMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3iAxwsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3iAxw8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zseDksgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3iAxxMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iAxxcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3iAxxsgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="txtPassword" navigable="true">
+      <modelElement href="Remis.uml#_zrvq0cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aNYpcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrvq0sgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aN_sMgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrvq08gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3iAxx8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iAxyMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3iUTwMgwEey5ya0y6L5ZLg" source="_3iVh6cgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zseqocgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3iUTwcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zseqo8gwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3iUTwsgwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3iUTw8gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zseqosgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3iUTxMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iU60MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3iU60cgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="lblError" navigable="true">
+      <modelElement href="Remis.uml#_zrwR4cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aN_scgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrwR4sgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_-aN_ssgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrwR48gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3iU60sgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iU608gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3iVh4MgwEey5ya0y6L5ZLg" sourceAnchor="0.0,77.0" targetAnchor="419.0,68.0" target="_3tnk0MgwEey5ya0y6L5ZLg" source="_3iVh6cgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsfRsMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3iVh4cgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsfRssgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3iVh4sgwEey5ya0y6L5ZLg" text="">
+      <visualProperties xmi:id="_4OTQAcgwEey5ya0y6L5ZLg" position="-7.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3iVh48gwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsfRscgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OTQAMgwEey5ya0y6L5ZLg" position="-19.0,5.0"/>
+      <visibility xmi:id="_3iVh5MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iVh5cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3iVh5sgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="model" navigable="true">
+      <modelElement href="Remis.uml#_zrwR5cgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OTQAsgwEey5ya0y6L5ZLg" position="5.0,-47.0"/>
+      <stereotypes xmi:id="_-aN_s8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrw48MgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3iVh58gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iVh6MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3mUC8MgwEey5ya0y6L5ZLg" sourceAnchor="85.0,0.0" targetAnchor="56.0,154.0" target="_3Y-xkMgwEey5ya0y6L5ZLg" source="_3qHk4MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsfRs8gwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3oUOEcgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsf4wMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3oTnAMgwEey5ya0y6L5ZLg" text="">
+      <visualProperties xmi:id="_4OT3EcgwEey5ya0y6L5ZLg" position="-48.50000000000003,-15.193548387096826"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3oTnAcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsfRtMgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OT3EMgwEey5ya0y6L5ZLg" position="-15.5,-76.69230769230774"/>
+      <visibility xmi:id="_3qCFUMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3o1LcMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3oUOEMgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="conn" navigable="true">
+      <modelElement href="Remis.uml#_zr0jUsgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OT3EsgwEey5ya0y6L5ZLg" position="2.5000000000000284,35.692307692307736"/>
+      <stereotypes xmi:id="_-aN_tMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr1KYMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qFvscgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qFvsMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_3nmcYMgwEey5ya0y6L5ZLg" sourceAnchor="115.0,0.0" targetAnchor="142.0,154.0" superClass="_3Y-xkMgwEey5ya0y6L5ZLg" subClass="_3qHk4MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zrB5IcgwEey5ya0y6L5ZLg"/>
+    <bendpoints xmi:id="_OPQlwMgxEey5ya0y6L5ZLg" sourceY="-344" targetX="-56" targetY="150"/>
+    <bendpoints xmi:id="_OPQlwcgxEey5ya0y6L5ZLg" sourceX="56" sourceY="-344" targetY="150"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3oUOEsgwEey5ya0y6L5ZLg" source="_3qHk4MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsf4wcgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3qGWwsgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsgf0MgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3qFvs8gwEey5ya0y6L5ZLg" text=""/>
+    <sourceRole xmi:id="_3qGWwMgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsf4wsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qG90cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qG90MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3qGWwcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="stmt" navigable="true">
+      <modelElement href="Remis.uml#_zr1KYcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aOmwMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr1KY8gwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qG908gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qG90sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_3sJlMMgwEey5ya0y6L5ZLg" sourceAnchor="209.0,0.0" targetAnchor="142.0,154.0" superClass="_3Y-xkMgwEey5ya0y6L5ZLg" subClass="_3tnk0MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zrDHQMgwEey5ya0y6L5ZLg"/>
+    <bendpoints xmi:id="_OPP-sMgxEey5ya0y6L5ZLg" sourceY="-30" targetX="246" targetY="150"/>
+    <bendpoints xmi:id="_OPP-scgxEey5ya0y6L5ZLg" sourceX="-246" sourceY="-30" targetY="150"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3vw54MgwEey5ya0y6L5ZLg" sourceAnchor="74.0,28.0" targetAnchor="0.0,191.0" target="_3jgmkMgwEey5ya0y6L5ZLg" source="_3yD_8MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zsSdYMgwEey5ya0y6L5ZLg"/>
+    <stereotypes xmi:id="_3yCKwsgwEey5ya0y6L5ZLg" name="Reference">
+      <modelElement href="Remis.uml#_zsSdYsgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3yBjsMgwEey5ya0y6L5ZLg" text="">
+      <visualProperties xmi:id="_4OUeIcgwEey5ya0y6L5ZLg" position="-50.0,-8.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3yCKwMgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="">
+      <modelElement href="Remis.uml#_zsSdYcgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OUeIMgwEey5ya0y6L5ZLg" position="5.0,-47.0"/>
+      <visibility xmi:id="_3yDY4cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3yDY4MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3yCKwcgwEey5ya0y6L5ZLg" aggregationKind="NONE" name="clientInfo" navigable="true">
+      <modelElement href="Remis.uml#_znPlUcgwEey5ya0y6L5ZLg"/>
+      <visualProperties xmi:id="_4OUeIsgwEey5ya0y6L5ZLg" position="-68.0,5.0"/>
+      <stereotypes xmi:id="_-aOmwcgwEey5ya0y6L5ZLg" name="StyledElement">
+        <modelElement href="Remis.uml#_znPlUsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3yDY48gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3yDY4sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_3wTFYMgwEey5ya0y6L5ZLg" sourceAnchor="231.0,172.0" targetAnchor="37.0,55.0" dashed="true" superClass="_3yD_8MgwEey5ya0y6L5ZLg" subClass="_3qHk4MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zrArAMgwEey5ya0y6L5ZLg"/>
+    <bendpoints xmi:id="_OPQlwsgxEey5ya0y6L5ZLg" sourceX="525" targetY="105"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3Y-xkMgwEey5ya0y6L5ZLg" name="DBConnect" associationsIn="_3Zyp4MgwEey5ya0y6L5ZLg _3mUC8MgwEey5ya0y6L5ZLg" associationsOut="_3YfCUMgwEey5ya0y6L5ZLg" subclassedBy="_3nmcYMgwEey5ya0y6L5ZLg _3sJlMMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_znT2wMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3Y-xkcgwEey5ya0y6L5ZLg" position="104.0,182.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3Y-xksgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3Y-xk8gwEey5ya0y6L5ZLg" name="connection">
+      <modelElement href="Remis.uml#_zr3mpMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aj98MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aj98cgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bE7UMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo4l0cgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo5M4MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpbYYMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3Y-xlcgwEey5ya0y6L5ZLg" label="#"/>
+      <cardinality xmi:id="_3Y-xlsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3Y-xl8gwEey5ya0y6L5ZLg" name="Connection">
+        <modelElement href="Remis.uml#_zrDuUMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3Y-xmMgwEey5ya0y6L5ZLg" defaultValue="&quot;jdbc:mysql://www.papademas.net:3307/510fp&quot;" name="url" staticAttribute="true">
+      <modelElement href="Remis.uml#_zr4NscgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3Y-xmcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr4NssgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3Y-xmsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3Y-xm8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3Y-xnMgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3Y-xncgwEey5ya0y6L5ZLg" defaultValue="&quot;fp510&quot;" name="username" staticAttribute="true">
+      <modelElement href="Remis.uml#_zr40wMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3Y-xnsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr40wcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3Y-xn8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3Y-xoMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3Y-xocgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3Y-xosgwEey5ya0y6L5ZLg" defaultValue="&quot;510&quot;" name="password" staticAttribute="true">
+      <modelElement href="Remis.uml#_zr40w8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3Y-xo8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr40xMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3Y-xpMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3Y-xpcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3Y-xpsgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3Y-xp8gwEey5ya0y6L5ZLg" name="getConnection">
+      <modelElement href="Remis.uml#_znUd0MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3Y-xqMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3Y-xqcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Y-xqsgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zra6sMgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3Y-xq8gwEey5ya0y6L5ZLg" name="Connection">
+          <modelElement href="Remis.uml#_zrDuUMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3Y-xrMgwEey5ya0y6L5ZLg" name="DBConnect">
+      <modelElement href="Remis.uml#_znVE4MgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3Y-xrcgwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3Y-xrsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3Y-xr8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Y-xsMgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znVE48gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3Y-xscgwEey5ya0y6L5ZLg" name="DBConnect">
+          <modelElement href="Remis.uml#_znT2wMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3c3zGcgwEey5ya0y6L5ZLg" name="AdminController" associationsOut="_3Zyp4MgwEey5ya0y6L5ZLg _3ahpsMgwEey5ya0y6L5ZLg _3avFEMgwEey5ya0y6L5ZLg _3cc8UMgwEey5ya0y6L5ZLg _3cjC8MgwEey5ya0y6L5ZLg _3crl0MgwEey5ya0y6L5ZLg _3csz8MgwEey5ya0y6L5ZLg _3cxscMgwEey5ya0y6L5ZLg _3cyTgMgwEey5ya0y6L5ZLg _3czhoMgwEey5ya0y6L5ZLg _3c0vwMgwEey5ya0y6L5ZLg _3c194MgwEey5ya0y6L5ZLg _3c2k8MgwEey5ya0y6L5ZLg _3c3MAMgwEey5ya0y6L5ZLg _3c3zEMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zmTKIMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3c3zGsgwEey5ya0y6L5ZLg" position="574.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3c3zG8gwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3c3zHMgwEey5ya0y6L5ZLg" name="pane1">
+      <modelElement href="Remis.uml#_zrd-AcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-alMEMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-alMEcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-alzIMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-alzIcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bFiYMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bFiYcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo6bAMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo6bAcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo7CEMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo7CEcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpb_cMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpb_ccgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c3zH8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c3zIMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c3zIcgwEey5ya0y6L5ZLg" name="Pane">
+        <modelElement href="Remis.uml#_zqrT0cgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c3zIsgwEey5ya0y6L5ZLg" name="pane2">
+      <modelElement href="Remis.uml#_zrelEsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-amaMMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-amaMcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-amaMsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-anBQMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bGJcMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bGJccgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo7pIMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo8QMMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo8QMcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo83QMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpcmgMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpcmgcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c3zJcgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c3zJsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c3zJ8gwEey5ya0y6L5ZLg" name="Pane">
+        <modelElement href="Remis.uml#_zqrT0cgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c3zKMgwEey5ya0y6L5ZLg" name="pane3">
+      <modelElement href="Remis.uml#_zrfMIsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-anBQcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-anoUMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-anoUcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-anoUsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bGwgMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bGwgcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo83QcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo9eUMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo9eUcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo9eUsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpdNkMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpdNkcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aIsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aI8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aJMgwEey5ya0y6L5ZLg" name="Pane">
+        <modelElement href="Remis.uml#_zqrT0cgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aJcgwEey5ya0y6L5ZLg" name="txtArea">
+      <modelElement href="Remis.uml#_zrfzMsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aoPYMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aoPYcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-ao2cMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ao2ccgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bHXkMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bHXkcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo-FYMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo-FYcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo-scMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo-sccgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpd0oMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpd0ocgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aKMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aKcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aKsgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aK8gwEey5ya0y6L5ZLg" name="txtPrice">
+      <modelElement href="Remis.uml#_zrgaQsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-apdgMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-apdgcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-aqEkMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aqEkcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bH-oMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bH-ocgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo_TgMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo_TgcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo_6kMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo_6kcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpd0osgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpebsMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aLsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aL8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aMMgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aMcgwEey5ya0y6L5ZLg" name="txtOwner">
+      <modelElement href="Remis.uml#_zrhBUsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aqroMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aqrocgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-arSsMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-arSscgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bH-osgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bIlsMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpAhoMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpAhocgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpBIsMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpBIscgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpebscgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpebssgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aNMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aNcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aNsgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aN8gwEey5ya0y6L5ZLg" name="txtAddress">
+      <modelElement href="Remis.uml#_zrhoYsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-ar5wMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ar5wcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-ar5wsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-asg0MgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bIlscgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bJMwMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpBvwMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpBvwcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpCW0MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpCW0cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpfCwMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpfCwcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aOsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aO8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aPMgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aPcgwEey5ya0y6L5ZLg" name="txtUpdateArea">
+      <modelElement href="Remis.uml#_zriPc8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-atH4MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-atH4cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-atH4sgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-atu8MgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bJMwcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bJMwsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpC94MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpC94cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpDk8MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpDk8cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpfp0MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpfp0cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aQMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aQcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aQsgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aQ8gwEey5ya0y6L5ZLg" name="txtUpdatePrice">
+      <modelElement href="Remis.uml#_zri2g8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-atu8cgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-auWAMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-auWAcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-auWAsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bJz0MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bJz0cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpEMAMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpEMAcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpEzEMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpEzEcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpgQ4MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpgQ4cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aRsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aR8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aSMgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aScgwEey5ya0y6L5ZLg" name="txtUpdateOwner">
+      <modelElement href="Remis.uml#_zrjdk8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-au9EMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-au9EcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-avkIMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-avkIcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bKa4MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bKa4cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpFaIMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpFaIcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpGBMMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpGBMcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpg38MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpg38cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aTMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aTcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aTsgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aT8gwEey5ya0y6L5ZLg" name="txtUpdateAddress">
+      <modelElement href="Remis.uml#_zrkEosgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-awLMMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-awLMcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-awyQMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-awyQcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bLB8MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bLB8cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpHPUMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpHPUcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpH2YMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpH2YcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FphfAMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FphfAcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aUsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aU8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aVMgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aVcgwEey5ya0y6L5ZLg" name="txtUpdateId">
+      <modelElement href="Remis.uml#_zrkrssgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-axZUMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-axZUcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-axZUsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ayAYMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bLB8sgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bLB88gwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpIdcMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpIdccgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpJEgMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpJEgcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpiGEMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpiGEcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aWMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aWcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aWsgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aW8gwEey5ya0y6L5ZLg" name="txtDeleteId">
+      <modelElement href="Remis.uml#_zrlSwsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-ayncMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-azOgMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-az1kMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-az1kcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bLpAMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bLpAcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpJrkMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpJrkcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpKSoMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpKSocgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpitIMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpitIcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3c4aXsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3c4aX8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aYMgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aYcgwEey5ya0y6L5ZLg" defaultValue="null" name="conn">
+      <modelElement href="Remis.uml#_zrl50MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aklAMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aklAcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bMQEMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo5z8MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo5z8cgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpjUMMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3c4aY8gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3c4aZMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aZcgwEey5ya0y6L5ZLg" name="DBConnect">
+        <modelElement href="Remis.uml#_znT2wMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3c4aZsgwEey5ya0y6L5ZLg" defaultValue="null" name="stmt">
+      <modelElement href="Remis.uml#_zrmg4MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a0coMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a0cocgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bMQEcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpKSosgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpK5sMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpjUMcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3c4aaMgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3c4aacgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3c4aasgwEey5ya0y6L5ZLg" name="Statement">
+        <modelElement href="Remis.uml#_zqo3kcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3c4aa8gwEey5ya0y6L5ZLg" name="AdminController">
+      <modelElement href="Remis.uml#_zmVmYMgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3c4abMgwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3c4abcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4absgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3c4ab8gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zmVmY8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3c4acMgwEey5ya0y6L5ZLg" name="AdminController">
+          <modelElement href="Remis.uml#_zmTKIMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3c4accgwEey5ya0y6L5ZLg" name="viewHouses">
+      <modelElement href="Remis.uml#_zmWNcMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4acsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4ac8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4adMgwEey5ya0y6L5ZLg" name="updateHouse">
+      <modelElement href="Remis.uml#_zmWNccgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4adcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4adsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4ad8gwEey5ya0y6L5ZLg" name="deleteHouse">
+      <modelElement href="Remis.uml#_zmW0gMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4aeMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4aecgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4aesgwEey5ya0y6L5ZLg" name="addHouse">
+      <modelElement href="Remis.uml#_zmW0gcgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4ae8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4afMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4afcgwEey5ya0y6L5ZLg" name="submit">
+      <modelElement href="Remis.uml#_zmW0gsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4afsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4af8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4agMgwEey5ya0y6L5ZLg" name="submitUpdate">
+      <modelElement href="Remis.uml#_zmW0g8gwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4agcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4agsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3c4ag8gwEey5ya0y6L5ZLg" name="submitDelete">
+      <modelElement href="Remis.uml#_zmXbkMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3c4ahMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3c4ahcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3f8VOcgwEey5ya0y6L5ZLg" name="ClientController" associationsOut="_3esYAMgwEey5ya0y6L5ZLg _3fkhwMgwEey5ya0y6L5ZLg _3f1AcMgwEey5ya0y6L5ZLg _3f2OkMgwEey5ya0y6L5ZLg _3f3csMgwEey5ya0y6L5ZLg _3f8VMMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zmglgMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3f8VOsgwEey5ya0y6L5ZLg" position="420.0,677.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3f8VO8gwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3f8VPMgwEey5ya0y6L5ZLg" name="cm">
+      <modelElement href="Remis.uml#_zrnH8MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a2R0MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a244MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bM3IMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpMu4MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpNV8MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpj7QMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3f8VPsgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3f8VP8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VQMgwEey5ya0y6L5ZLg" name="HouseModel">
+        <modelElement href="Remis.uml#_zm_tsMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3f8VQcgwEey5ya0y6L5ZLg" name="tblHouses">
+      <modelElement href="Remis.uml#_zrnvAMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a1DsMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a1DscgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a1DssgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a1qwMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a1qwcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a1qwsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bM3IcgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bM3IsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bM3I8gwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpLgwMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpLgwcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpLgwsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpMH0MgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpMH0cgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpMH0sgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpj7QcgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_Fpj7QsgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpkiUMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3f8VRcgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VRsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VR8gwEey5ya0y6L5ZLg" name="TableView">
+        <modelElement href="Remis.uml#_zq1r4MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3f8VSMgwEey5ya0y6L5ZLg" name="area">
+      <modelElement href="Remis.uml#_zroWE8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a3f8MgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a3f8cgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a3f8sgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a4HAMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a4HAcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a4uEMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bNeMMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bNeMcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bNeMsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpNV8cgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpNV8sgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpN9AMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpN9AcgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpN9AsgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpOkEMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpkiUcgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FplJYMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FplJYcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3f8VTMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VTcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VTsgwEey5ya0y6L5ZLg" name="TableColumn">
+        <modelElement href="Remis.uml#_zq1E0MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3f8VT8gwEey5ya0y6L5ZLg" name="price">
+      <modelElement href="Remis.uml#_zrpkM8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a4uEcgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a4uEsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a5VIMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a5VIcgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a5VIsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a58MMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bOFQMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bOFQcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bOFQsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpPLIMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpPLIcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpPLIsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpPyMMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpPyMcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpPyMsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FplwcMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FplwccgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FplwcsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3f8VU8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VVMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VVcgwEey5ya0y6L5ZLg" name="TableColumn">
+        <modelElement href="Remis.uml#_zq1E0MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3f8VVsgwEey5ya0y6L5ZLg" name="owner">
+      <modelElement href="Remis.uml#_zrqyUsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a58McgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a6jQMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a6jQcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a6jQsgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a7KUMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a7KUcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bOsUMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bOsUcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bOsUsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpQZQMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpQZQcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpRAUMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpRAUcgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpRnYMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpRnYcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpmXgMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpmXgcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpmXgsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3f8VWsgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VW8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VXMgwEey5ya0y6L5ZLg" name="TableColumn">
+        <modelElement href="Remis.uml#_zq1E0MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3f8VXcgwEey5ya0y6L5ZLg" name="address">
+      <modelElement href="Remis.uml#_zrrZZMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a7xYMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a7xYcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a7xYsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a8YcMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-a8YccgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a8YcsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bPTYMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bPTYcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bPTYsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpSOcMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpSOccgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpSOcsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpS1gMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpS1gcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpS1gsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fpm-kMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_Fpm-kcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpm-ksgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3f8VYcgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3f8VYsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3f8VY8gwEey5ya0y6L5ZLg" name="TableColumn">
+        <modelElement href="Remis.uml#_zq1E0MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3f8VZMgwEey5ya0y6L5ZLg" name="viewHouses">
+      <modelElement href="Remis.uml#_zmmFEMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f8VZcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8VZsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3f8VZ8gwEey5ya0y6L5ZLg" name="logout">
+      <modelElement href="Remis.uml#_zmnTMMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f8VaMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8VacgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3f8VasgwEey5ya0y6L5ZLg" name="ClientController">
+      <modelElement href="Remis.uml#_zmohUMgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3f8Va8gwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3f8VbMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8VbcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3f8VbsgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zmohU8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3f8Vb8gwEey5ya0y6L5ZLg" name="ClientController">
+          <modelElement href="Remis.uml#_zmglgMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3f8VcMgwEey5ya0y6L5ZLg" name="initialize">
+      <modelElement href="Remis.uml#_zrS-4MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f8VccgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8VcsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3f8Vc8gwEey5ya0y6L5ZLg" name="location">
+        <modelElement href="Remis.uml#_zrS-4cgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3f8VdMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3f8VdcgwEey5ya0y6L5ZLg" name="URL">
+          <modelElement href="Remis.uml#_zqxaccgwEey5ya0y6L5ZLg"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3f8VdsgwEey5ya0y6L5ZLg" name="resources">
+        <modelElement href="Remis.uml#_zrTl8MgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3f8Vd8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3f8VeMgwEey5ya0y6L5ZLg" name="ResourceBundle">
+          <modelElement href="Remis.uml#_zqyBgcgwEey5ya0y6L5ZLg"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3f8VecgwEey5ya0y6L5ZLg" name="customResize">
+      <modelElement href="Remis.uml#_zrTl8cgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3f8VesgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3f8Ve8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3f8VfMgwEey5ya0y6L5ZLg" name="view">
+        <modelElement href="Remis.uml#_zrTl8sgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3f8VfcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3f8VfsgwEey5ya0y6L5ZLg" name="TableView">
+          <modelElement href="Remis.uml#_zq1r4MgwEey5ya0y6L5ZLg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3iVh6cgwEey5ya0y6L5ZLg" name="LoginController" associationsOut="_3hChYMgwEey5ya0y6L5ZLg _3iAxwMgwEey5ya0y6L5ZLg _3iUTwMgwEey5ya0y6L5ZLg _3iVh4MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zmvPAMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3iVh6sgwEey5ya0y6L5ZLg" position="907.0,507.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3iVh68gwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3iVh7MgwEey5ya0y6L5ZLg" name="txtUsername">
+      <modelElement href="Remis.uml#_zrucsMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a8_gMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a8_gcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a9mkMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a9mkcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bP6cMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bP6ccgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpTckMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpTckcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpUDoMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpUDocgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpnloMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpoMsMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3iVh78gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iVh8MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3iVh8cgwEey5ya0y6L5ZLg" name="TextField">
+        <modelElement href="Remis.uml#_zqqswcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3iVh8sgwEey5ya0y6L5ZLg" name="txtPassword">
+      <modelElement href="Remis.uml#_zrvq0cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a-NoMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a-NocgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a-0sMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a-0scgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bP6csgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bQhgMgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpUqsMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpUqscgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpVRwMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpVRwcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpoMscgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpoMssgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3iVh9cgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iVh9sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3iVh98gwEey5ya0y6L5ZLg" name="PasswordField">
+        <modelElement href="Remis.uml#_zq59UcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3iVh-MgwEey5ya0y6L5ZLg" name="lblError">
+      <modelElement href="Remis.uml#_zrwR4cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-a_bwMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-a_bwcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-a_bwsgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bAC0MgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bQhgcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bQhgsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpV40MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpV40cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpWf4MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpWf4cgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpozwMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpozwcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3iVh-8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iVh_MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3iVh_cgwEey5ya0y6L5ZLg" name="Label">
+        <modelElement href="Remis.uml#_zq5WQMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3iVh_sgwEey5ya0y6L5ZLg" name="model">
+      <modelElement href="Remis.uml#_zrwR5cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-bAC0cgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bAp4MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bRIkMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpWf4sgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpXG8MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fppa0MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3iViAMgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3iViAcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3iViAsgwEey5ya0y6L5ZLg" name="LoginModel">
+        <modelElement href="Remis.uml#_znKs0MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3iViA8gwEey5ya0y6L5ZLg" name="LoginController">
+      <modelElement href="Remis.uml#_zmxEMMgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3iViBMgwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3iViBcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iViBsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3iViB8gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zmxrQsgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3iViCMgwEey5ya0y6L5ZLg" name="LoginController">
+          <modelElement href="Remis.uml#_zmvPAMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3iViCcgwEey5ya0y6L5ZLg" name="login">
+      <modelElement href="Remis.uml#_zmxrQ8gwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3iViCsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iViC8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_3iViDMgwEey5ya0y6L5ZLg" name="checkCredentials">
+      <modelElement href="Remis.uml#_zmySUMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3iViDcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3iViDsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3iViD8gwEey5ya0y6L5ZLg" name="username">
+        <modelElement href="Remis.uml#_zmySUcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3iViEMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3iViEcgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3iViEsgwEey5ya0y6L5ZLg" name="password">
+        <modelElement href="Remis.uml#_zmySUsgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3iViE8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3iViFMgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3jgmkMgwEey5ya0y6L5ZLg" name="House" associationsIn="_3vw54MgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zm0ukMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3jgmkcgwEey5ya0y6L5ZLg" position="1086.0,679.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3jgmksgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3jgmk8gwEey5ya0y6L5ZLg" name="id">
+      <modelElement href="Remis.uml#_zrw48cgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3jgmlMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrxgAMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgmlcgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3jgmlsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3jgml8gwEey5ya0y6L5ZLg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3jgmmMgwEey5ya0y6L5ZLg" name="area">
+      <modelElement href="Remis.uml#_zrxgAcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3jgmmcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zryHEMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgmmsgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3jgmm8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3jgmnMgwEey5ya0y6L5ZLg" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3jgmncgwEey5ya0y6L5ZLg" name="price">
+      <modelElement href="Remis.uml#_zryHEcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3jgmnsgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zryHEsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgmn8gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3jgmoMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3jgmocgwEey5ya0y6L5ZLg" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3jgmosgwEey5ya0y6L5ZLg" name="owner">
+      <modelElement href="Remis.uml#_zryHE8gwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3jgmo8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zryuIMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgmpMgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3jgmpcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3jgmpsgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3jgmp8gwEey5ya0y6L5ZLg" name="address">
+      <modelElement href="Remis.uml#_zryuIcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3jgmqMgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zryuIsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgmqcgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3jgmqsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3jgmq8gwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3jgmrMgwEey5ya0y6L5ZLg" name="getId">
+      <modelElement href="Remis.uml#_zm18sMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmrcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmrsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgmr8gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm18scgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgmsMgwEey5ya0y6L5ZLg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgmscgwEey5ya0y6L5ZLg" name="setId">
+      <modelElement href="Remis.uml#_zm2jwMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmssgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgms8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3jgmtMgwEey5ya0y6L5ZLg" name="id">
+        <modelElement href="Remis.uml#_zm2jwcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgmtcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgmtsgwEey5ya0y6L5ZLg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgmt8gwEey5ya0y6L5ZLg" name="getArea">
+      <modelElement href="Remis.uml#_zm2jwsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmuMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmucgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgmusgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm2jw8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgmu8gwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgmvMgwEey5ya0y6L5ZLg" name="setArea">
+      <modelElement href="Remis.uml#_zm3K0MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmvcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmvsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3jgmv8gwEey5ya0y6L5ZLg" name="area">
+        <modelElement href="Remis.uml#_zm3K0cgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgmwMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgmwcgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgmwsgwEey5ya0y6L5ZLg" name="getPrice">
+      <modelElement href="Remis.uml#_zm3x4MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmw8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmxMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgmxcgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm3x4cgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgmxsgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgmx8gwEey5ya0y6L5ZLg" name="setPrice">
+      <modelElement href="Remis.uml#_zm3x4sgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmyMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmycgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3jgmysgwEey5ya0y6L5ZLg" name="price">
+        <modelElement href="Remis.uml#_zm3x48gwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgmy8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgmzMgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgmzcgwEey5ya0y6L5ZLg" name="getOwner">
+      <modelElement href="Remis.uml#_zm5AAMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgmzsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgmz8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgm0MgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm5AAcgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgm0cgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgm0sgwEey5ya0y6L5ZLg" name="setOwner">
+      <modelElement href="Remis.uml#_zm5nEMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgm08gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgm1MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3jgm1cgwEey5ya0y6L5ZLg" name="owner">
+        <modelElement href="Remis.uml#_zm5nEcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm1sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm18gwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgm2MgwEey5ya0y6L5ZLg" name="getAddress">
+      <modelElement href="Remis.uml#_zm5nEsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgm2cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgm2sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgm28gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm5nE8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgm3MgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgm3cgwEey5ya0y6L5ZLg" name="setAddress">
+      <modelElement href="Remis.uml#_zm6OIMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgm3sgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgm38gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3jgm4MgwEey5ya0y6L5ZLg" name="address">
+        <modelElement href="Remis.uml#_zm6OIcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm4cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm4sgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgm48gwEey5ya0y6L5ZLg" name="House">
+      <modelElement href="Remis.uml#_zm61MMgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3jgm5MgwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3jgm5cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgm5sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgm58gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm7cRsgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgm6MgwEey5ya0y6L5ZLg" name="House">
+          <modelElement href="Remis.uml#_zm0ukMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3jgm6cgwEey5ya0y6L5ZLg" name="id">
+        <modelElement href="Remis.uml#_zm61McgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm6sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm68gwEey5ya0y6L5ZLg" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3jgm7MgwEey5ya0y6L5ZLg" name="area">
+        <modelElement href="Remis.uml#_zm7cQMgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm7cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm7sgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3jgm78gwEey5ya0y6L5ZLg" name="price">
+        <modelElement href="Remis.uml#_zm7cQcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm8MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm8cgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3jgm8sgwEey5ya0y6L5ZLg" name="owner">
+        <modelElement href="Remis.uml#_zm7cQsgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm88gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm9MgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3jgm9cgwEey5ya0y6L5ZLg" name="address">
+        <modelElement href="Remis.uml#_zm7cQ8gwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3jgm9sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3jgm98gwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3jgm-MgwEey5ya0y6L5ZLg" name="House">
+      <modelElement href="Remis.uml#_zm8DUMgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3jgm-cgwEey5ya0y6L5ZLg" keyword="create"/>
+      <stereotypes xmi:id="_3jgm-sgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zm8qYMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3jgm-8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgm_MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgm_cgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm9RcMgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgm_sgwEey5ya0y6L5ZLg" name="House">
+          <modelElement href="Remis.uml#_zm0ukMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3jgm_8gwEey5ya0y6L5ZLg" name="toString">
+      <modelElement href="Remis.uml#_zm94gMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3jgnAMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3jgnAcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3jgnAsgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zm94gcgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3jgnA8gwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3tnk0MgwEey5ya0y6L5ZLg" name="LoginModel" associationsIn="_3iVh4MgwEey5ya0y6L5ZLg" generalizations="_3sJlMMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_znKs0MgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3tnk0cgwEey5ya0y6L5ZLg" position="283.0,516.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3tnk0sgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3tnk08gwEey5ya0y6L5ZLg" name="admin">
+      <modelElement href="Remis.uml#_zr1xcMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3tnk1MgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr1xccgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3tnk1cgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3tnk1sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3tnk18gwEey5ya0y6L5ZLg" name="Boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3tnk2MgwEey5ya0y6L5ZLg" name="id">
+      <modelElement href="Remis.uml#_zr1xcsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3tnk2cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3tnk2sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3tnk28gwEey5ya0y6L5ZLg" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3tnk3MgwEey5ya0y6L5ZLg" name="isAdmin">
+      <modelElement href="Remis.uml#_znLT4MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3tnk3cgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3tnk3sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3tnk38gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znL68MgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3tnk4MgwEey5ya0y6L5ZLg" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3tnk4cgwEey5ya0y6L5ZLg" name="setAdmin">
+      <modelElement href="Remis.uml#_znL68cgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3tnk4sgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3tnk48gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3tnk5MgwEey5ya0y6L5ZLg" name="admin">
+        <modelElement href="Remis.uml#_znL68sgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3tnk5cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3tnk5sgwEey5ya0y6L5ZLg" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3tnk58gwEey5ya0y6L5ZLg" name="checkCredentials">
+      <modelElement href="Remis.uml#_znMiAMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3tnk6MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3tnk6cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3tnk6sgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znMiA8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3tnk68gwEey5ya0y6L5ZLg" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3tnk7MgwEey5ya0y6L5ZLg" name="username">
+        <modelElement href="Remis.uml#_znMiAcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3tnk7cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3tnk7sgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3tnk78gwEey5ya0y6L5ZLg" name="password">
+        <modelElement href="Remis.uml#_znMiAsgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3tnk8MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3tnk8cgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_3yD_8MgwEey5ya0y6L5ZLg" name="User" associationsOut="_3vw54MgwEey5ya0y6L5ZLg" subclassedBy="_3wTFYMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_znNwIMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3yD_8cgwEey5ya0y6L5ZLg" position="794.0,842.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3yD_8sgwEey5ya0y6L5ZLg" name="Generics">
+      <modelElement href="Remis.uml#_znO-QMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3yD_88gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+      <modelElement href="Remis.uml#_znPlUMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3yD_9MgwEey5ya0y6L5ZLg" name="Annotations">
+      <modelElement href="Remis.uml#_znQMYMgwEey5ya0y6L5ZLg"/>
+    </stereotypes>
+    <visibility xmi:id="_3yD_9cgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3yD_9sgwEey5ya0y6L5ZLg" name="clientInfo">
+      <modelElement href="Remis.uml#_znPlUcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-bCfEMgwEey5ya0y6L5ZLg" name="StyledElement"/>
+      <stereotypes xmi:id="_-bDGIMgwEey5ya0y6L5ZLg" name="StyledElement"/>
+      <stereotypes xmi:id="_-bS9wMgwEey5ya0y6L5ZLg" name="StyledElement"/>
+      <stereotypes xmi:id="_FpY8IMgxEey5ya0y6L5ZLg" name="StyledElement"/>
+      <stereotypes xmi:id="_FpZjMMgxEey5ya0y6L5ZLg" name="StyledElement"/>
+      <stereotypes xmi:id="_FprQAMgxEey5ya0y6L5ZLg" name="StyledElement"/>
+      <visibility xmi:id="_3yD_-MgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3yD_-cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3yD_-sgwEey5ya0y6L5ZLg" name="House">
+        <modelElement href="Remis.uml#_zm0ukMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3qHk4MgwEey5ya0y6L5ZLg" name="HouseModel" associationsIn="_3fkhwMgwEey5ya0y6L5ZLg" associationsOut="_3mUC8MgwEey5ya0y6L5ZLg _3oUOEsgwEey5ya0y6L5ZLg" generalizations="_3nmcYMgwEey5ya0y6L5ZLg _3wTFYMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zm_tsMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3qHk4cgwEey5ya0y6L5ZLg" position="75.0,830.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3qHk4sgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3qHk48gwEey5ya0y6L5ZLg" name="area">
+      <modelElement href="Remis.uml#_zrzVMMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3qHk5MgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrzVMcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qHk5cgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk5sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHk58gwEey5ya0y6L5ZLg" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3qHk6MgwEey5ya0y6L5ZLg" name="price">
+      <modelElement href="Remis.uml#_zrzVMsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3qHk6cgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrz8QMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qHk6sgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk68gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHk7MgwEey5ya0y6L5ZLg" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3qHk7cgwEey5ya0y6L5ZLg" name="owner">
+      <modelElement href="Remis.uml#_zrz8QcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3qHk7sgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrz8QsgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qHk78gwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk8MgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHk8cgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3qHk8sgwEey5ya0y6L5ZLg" name="address">
+      <modelElement href="Remis.uml#_zr0jUMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3qHk88gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zr0jUcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qHk9MgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk9cgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHk9sgwEey5ya0y6L5ZLg" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3qHk98gwEey5ya0y6L5ZLg" defaultValue="null" name="conn">
+      <modelElement href="Remis.uml#_zr0jUsgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-bBQ8MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bBQ8cgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bSWsMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpXuAMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpXuAcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpqo8MgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3qHk-cgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk-sgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHk-8gwEey5ya0y6L5ZLg" name="DBConnect">
+        <modelElement href="Remis.uml#_znT2wMgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3qHk_MgwEey5ya0y6L5ZLg" defaultValue="null" name="stmt">
+      <modelElement href="Remis.uml#_zr1KYcgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-bB4AMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bB4AcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bSWscgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpYVEMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpYVEcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fpqo8cgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3qHk_sgwEey5ya0y6L5ZLg" label="~"/>
+      <cardinality xmi:id="_3qHk_8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3qHlAMgwEey5ya0y6L5ZLg" name="Statement">
+        <modelElement href="Remis.uml#_zqo3kcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3qHlAcgwEey5ya0y6L5ZLg" name="HouseModel">
+      <modelElement href="Remis.uml#_znBi4MgwEey5ya0y6L5ZLg"/>
+      <keywords xmi:id="_3qHlAsgwEey5ya0y6L5ZLg" keyword="create"/>
+      <visibility xmi:id="_3qHlA8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlBMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlBcgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znBi48gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlBsgwEey5ya0y6L5ZLg" name="HouseModel">
+          <modelElement href="Remis.uml#_zm_tsMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlB8gwEey5ya0y6L5ZLg" name="getArea">
+      <modelElement href="Remis.uml#_znBi5MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlCMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlCcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlCsgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znCJ8MgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlC8gwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlDMgwEey5ya0y6L5ZLg" name="setArea">
+      <modelElement href="Remis.uml#_znCJ8cgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlDcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlDsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3qHlD8gwEey5ya0y6L5ZLg" name="area">
+        <modelElement href="Remis.uml#_znCJ8sgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3qHlEMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3qHlEcgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3qHlEsgwEey5ya0y6L5ZLg" name="getPrice">
+      <modelElement href="Remis.uml#_znCxAMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlE8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlFMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlFcgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znCxAcgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlFsgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlF8gwEey5ya0y6L5ZLg" name="setPrice">
+      <modelElement href="Remis.uml#_znCxAsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlGMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlGcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3qHlGsgwEey5ya0y6L5ZLg" name="price">
+        <modelElement href="Remis.uml#_znCxA8gwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3qHlG8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3qHlHMgwEey5ya0y6L5ZLg" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3qHlHcgwEey5ya0y6L5ZLg" name="getOwner">
+      <modelElement href="Remis.uml#_znDYEMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlHsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlH8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlIMgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znDYEcgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlIcgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlIsgwEey5ya0y6L5ZLg" name="setOwner">
+      <modelElement href="Remis.uml#_znD_IMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlI8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlJMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3qHlJcgwEey5ya0y6L5ZLg" name="owner">
+        <modelElement href="Remis.uml#_znD_IcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3qHlJsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3qHlJ8gwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3qHlKMgwEey5ya0y6L5ZLg" name="getAddress">
+      <modelElement href="Remis.uml#_znD_IsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlKcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlKsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlK8gwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znD_I8gwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlLMgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlLcgwEey5ya0y6L5ZLg" name="setAddress">
+      <modelElement href="Remis.uml#_znEmMMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlLsgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlL8gwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3qHlMMgwEey5ya0y6L5ZLg" name="address">
+        <modelElement href="Remis.uml#_znEmMcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3qHlMcgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3qHlMsgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3qHlM8gwEey5ya0y6L5ZLg" name="getHouses">
+      <modelElement href="Remis.uml#_znEmMsgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3qHlNMgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlNcgwEey5ya0y6L5ZLg" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_3qHlNsgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_znFNQMgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlN8gwEey5ya0y6L5ZLg" name="HouseModel">
+          <modelElement href="Remis.uml#_zm_tsMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3qHlOMgwEey5ya0y6L5ZLg" name="getClientInfo">
+      <modelElement href="Remis.uml#_znF0UMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3qHlOcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_znF0UcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_3qHlOsgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_znHCcMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3qHlO8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3qHlPMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3qHlPcgwEey5ya0y6L5ZLg">
+        <modelElement href="Remis.uml#_zrB5IMgwEey5ya0y6L5ZLg"/>
+        <type xmi:id="_3qHlPsgwEey5ya0y6L5ZLg" name="House">
+          <modelElement href="Remis.uml#_zm0ukMgwEey5ya0y6L5ZLg"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3XOeEMgwEey5ya0y6L5ZLg" name="DynamicTable" associationsOut="_3VuCMMgwEey5ya0y6L5ZLg _3WWUUMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_znQzcMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3XOeEcgwEey5ya0y6L5ZLg" position="1072.0,249.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3XOeEsgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3XOeE8gwEey5ya0y6L5ZLg" name="data">
+      <modelElement href="Remis.uml#_zr2YgMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-ag6ocgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-ahhsMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ahhscgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-ahhssgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-aiIwMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aiIwcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bDtMMgwEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_-bDtMcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bDtMsgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo2JkMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_Fo2JkcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo2JksgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo2woMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_Fo2wocgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo2wosgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpaKQMgxEey5ya0y6L5ZLg" name="Generics"/>
+      <stereotypes xmi:id="_FpaKQcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpaKQsgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3XOeF8gwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3XOeGMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3XOeGcgwEey5ya0y6L5ZLg" name="ObservableList">
+        <modelElement href="Remis.uml#_zrFjg8gwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3XOeGsgwEey5ya0y6L5ZLg" name="tableview">
+      <modelElement href="Remis.uml#_zr2_lMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-aiv0MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-aiv0cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-ajW4MgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ajW4cgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_-bEUQMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bEUQcgwEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo3XsMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo3-wMgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_Fo3-wcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo4l0MgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <stereotypes xmi:id="_FpaxUMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpaxUcgxEey5ya0y6L5ZLg" name="Annotations"/>
+      <visibility xmi:id="_3XOeHcgwEey5ya0y6L5ZLg" label="-"/>
+      <cardinality xmi:id="_3XOeHsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3XOeH8gwEey5ya0y6L5ZLg" name="TableView">
+        <modelElement href="Remis.uml#_zq1r4MgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3XOeIMgwEey5ya0y6L5ZLg" name="buildData">
+      <modelElement href="Remis.uml#_znRagMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3XOeIcgwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_znSBkcgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_3XOeIsgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_znSooMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3XOeI8gwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3XOeJMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3XOeJcgwEey5ya0y6L5ZLg" name="sql">
+        <modelElement href="Remis.uml#_znSBkMgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3XOeJsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3XOeJ8gwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3XOeKMgwEey5ya0y6L5ZLg" name="customResize">
+      <modelElement href="Remis.uml#_zrZskMgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3XOeKcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3XOeKsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3XOeK8gwEey5ya0y6L5ZLg" name="view">
+        <modelElement href="Remis.uml#_zrZskcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3XOeLMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3XOeLcgwEey5ya0y6L5ZLg" name="TableView">
+          <modelElement href="Remis.uml#_zq1r4MgwEey5ya0y6L5ZLg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3UONYMgwEey5ya0y6L5ZLg" name="Main" associationsOut="_3TbjMMgwEey5ya0y6L5ZLg">
+    <modelElement href="Remis.uml#_zmNDgMgwEey5ya0y6L5ZLg"/>
+    <visualProperties xmi:id="_3UONYcgwEey5ya0y6L5ZLg" position="1314.0,250.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3UONYsgwEey5ya0y6L5ZLg" label="+"/>
+    <attributes xmi:id="_3UONY8gwEey5ya0y6L5ZLg" name="stage" staticAttribute="true">
+      <modelElement href="Remis.uml#_zrdW8MgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_-agTkMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-ag6oMgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_-bDGIcgwEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo07cMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_Fo1igMgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_FpZjMcgxEey5ya0y6L5ZLg" name="LegacyStyledElement"/>
+      <visibility xmi:id="_3UONZcgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3UONZsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <type xmi:id="_3UONZ8gwEey5ya0y6L5ZLg" name="Stage">
+        <modelElement href="Remis.uml#_zql0QcgwEey5ya0y6L5ZLg"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3UONaMgwEey5ya0y6L5ZLg" name="main" staticOperation="true">
+      <modelElement href="Remis.uml#_zmQG0MgwEey5ya0y6L5ZLg"/>
+      <visibility xmi:id="_3UONacgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3UONasgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3UONa8gwEey5ya0y6L5ZLg" name="args">
+        <modelElement href="Remis.uml#_zmQt4MgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3UONbMgwEey5ya0y6L5ZLg" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_3UONbcgwEey5ya0y6L5ZLg" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3UONbsgwEey5ya0y6L5ZLg" name="start">
+      <modelElement href="Remis.uml#_zrOGYMgwEey5ya0y6L5ZLg"/>
+      <stereotypes xmi:id="_3UONb8gwEey5ya0y6L5ZLg" name="LegacyStyledElement">
+        <modelElement href="Remis.uml#_zrOtcMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <stereotypes xmi:id="_3UONcMgwEey5ya0y6L5ZLg" name="Annotations">
+        <modelElement href="Remis.uml#_zrPUgMgwEey5ya0y6L5ZLg"/>
+      </stereotypes>
+      <visibility xmi:id="_3UONccgwEey5ya0y6L5ZLg" label="+"/>
+      <cardinality xmi:id="_3UONcsgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3UONc8gwEey5ya0y6L5ZLg" name="primaryStage">
+        <modelElement href="Remis.uml#_zrOGYcgwEey5ya0y6L5ZLg"/>
+        <cardinality xmi:id="_3UONdMgwEey5ya0y6L5ZLg" label="1" max="1" min="1"/>
+        <type xmi:id="_3UONdcgwEey5ya0y6L5ZLg" name="Stage">
+          <modelElement href="Remis.uml#_zql0QcgwEey5ya0y6L5ZLg"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

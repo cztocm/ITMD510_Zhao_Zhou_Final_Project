@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #17abd4;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.LoginController">
+   <children>
+      <Button contentDisplay="CENTER" layoutX="257.0" layoutY="290.0" mnemonicParsing="false" onAction="#login" prefHeight="32.0" prefWidth="87.0" style="-fx-background-color: #4245f5" text="Login" textFill="#fcf8f8">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <TextField fx:id="txtUsername" alignment="TOP_LEFT" layoutX="245.0" layoutY="139.0" />
+      <PasswordField fx:id="txtPassword" alignment="TOP_LEFT" layoutX="246.0" layoutY="200.0" />
+      <Label fx:id="lblError" layoutX="131.0" layoutY="56.0" text="Real estate management information system" textFill="#4d3685">
+         <font>
+            <Font size="19.0" />
+         </font></Label>
+      <Label layoutX="161.0" layoutY="144.0" text="Username" textFill="#f8f4f4">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Label layoutX="162.0" layoutY="205.0" text="Password" textFill="#fffafa">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
